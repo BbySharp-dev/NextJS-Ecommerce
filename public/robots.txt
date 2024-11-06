@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /system/
+Disallow: /manage-product/
+
+User-agent: *
+Allow: /
+Allow: /home
+Allow: /product
+
+
+Sitemap: https://app-shop-fe.vercel.app/sitemap.xml
